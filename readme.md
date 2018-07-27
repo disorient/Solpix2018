@@ -18,6 +18,6 @@ The flasher uses a [WCH CH554 microcontroller](www.wch.cn/products/CH554.html) a
 A nice feature of the WCH parts is that they have a hardware USB peripheral with a built-in bootloader, so they can be programmed without needing an extra tool. Pads for the USB connections are available on one edge of the PCB.
 
 ## PCB design
-![alt text](https://github.com/disorient/Solpix2018/raw/master/releases/2018-07-27%20Solpix2018%20RevA.step "PCB image")
+![PCB image](https://raw.githubusercontent.com/disorient/Solpix2018/master/releases/2018-07-27%20SolPix2018%20RevA.PNG)
 
 The PCB was designed in Altium. The schematics and gerber for the release are available in the releases/ subdirectoy.
