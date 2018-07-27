@@ -1,0 +1,17 @@
+Altium Designer Pick and Place Locations
+C:\Users\blinkinlabs\Blinkinlabs-Repos\solpix 2018\Project Outputs for PCB_Project1\Pick Place\Pick Place for PCB1.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       27/07/18
+Time:       17:05
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Comment                     Layer    Footprint           Center-X(mm) Center-Y(mm) Rotation Description                                                                                                         
+R1         "10K 5% 0603(1608)"         TopLayer RESC0603(1608)_N    6.6000       5.0000       270      "10K 0.1W 5% 0603 (1608 Metric)  SMD"                                                                               
+D1         1N5819HW-7-F                TopLayer DIOD-SOD-123-2_V    8.6110       5.5000       90       "1.0 A Surface Mount Schottky Barrier Rectifier, 40 V, -65 to 125 degC, 2-Pin SOD-123 Package, RoHS, Tape and Reel" 
+C1         "CAP 2.2uF 6.3V 0603(1608)" TopLayer CAPC0603(1608)100_L 6.6000       2.0000       90       "CAP 2.2uF 6.3V ±10% 0603 (1608 Metric) Thickness 1mm SMD"                                                          
+U1         CH554E                      TopLayer LC-MSOP-10          4.3000       4.0000       0        "8-bit enhanced USB microcontroller"                                                                                
