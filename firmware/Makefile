@@ -1,6 +1,6 @@
 TARGET = SolPix2018
 
-CH554_SDCC= c:/Users/matt/Blinkinlabs-Repos/ch554_sdcc
+CH554_SDCC= c:/Users/blinkinlabs/Blinkinlabs-Repos/ch554_sdcc
 
 FREQ_SYS = 187500
 
